@@ -100,10 +100,10 @@ make
 ---
 
 ## Contributors
-| Name                 | CWID       | Contribution (%) | Contribution Description |
+| Name                 | Contribution Description |
 |----------------------|-----------|-----------------|--------------------------|
-| Apurv Gaikwad       | A20569178  | 33.33%         | Contributed to the development of `storage_mgr.c`, `Makefile`, `test_assign1_2.c`, and this `README.txt`. Worked on file handling, testing, and documentation. |
-| Nishant Uday Dalvi  | A20556507  | 33.33%         | Collaborated on the implementation of `storage_mgr.c`, structured `Makefile`, designed `test_assign1_2.c`, and contributed to documentation. |
-| Satyam Borade       | A20586631  | 33.33%         | Assisted in coding `storage_mgr.c`, refining `Makefile`, validating `test_assign1_2.c`, and co-writing the `README.txt`. |
+| Apurv Gaikwad       | Contributed to the development of `storage_mgr.c`, `Makefile`, `test_assign1_2.c`, and this `README.txt`. Worked on file handling, testing, and documentation. |
+| Nishant Uday Dalvi  | Collaborated on the implementation of `storage_mgr.c`, structured `Makefile`, designed `test_assign1_2.c`, and contributed to documentation. |
+| Satyam Borade       | Assisted in coding `storage_mgr.c`, refining `Makefile`, validating `test_assign1_2.c`, and co-writing the `README.txt`. |
 
 ---
